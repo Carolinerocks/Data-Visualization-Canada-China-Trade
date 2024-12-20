@@ -1,4 +1,4 @@
-# Data_Visualization_Canada_China_Trade
+# Data Visualization - Canada China Trade
 
 **1. Introduction**  
 
@@ -22,4 +22,4 @@ This project aims to analyze the factors influencing individual medical insuranc
 
 This project provides a comprehensive analysis of Canada-China trade relations over the past decade, identifying key trends, challenges, and growth opportunities. The study reveals that trade dynamics are shaped by Canada’s reliance on Chinese manufacturing, China’s demand for Canadian natural resources, and external factors like geopolitical events and the COVID-19 pandemic.  
 
-Using ARIMA models, the project effectively forecasts future trade trends, offering valuable insights for policymakers and investors. The analysis suggests opportunities to diversify trade, reduce sector-specific reliance, and strengthen economic cooperation. Canadian investors are encouraged to focus on natural resources, particularly agriculture and mining, while also exploring investments in local and high-tech manufacturing to reduce import dependency. Additionally, the growing e-cigarette and alternative tobacco markets present promising investment opportunities.
+Using ARIMA models, the project effectively forecasts future trade trends, offering valuable insights for policymakers and investors. The analysis suggests opportunities to diversify trade, reduce sector-specific reliance, and strengthen economic cooperation. Canadian investors are encouraged to focus on natural resources, particularly agriculture and mining, while also exploring local and high-tech manufacturing investments to reduce import dependency. Additionally, the growing e-cigarette and alternative tobacco markets present promising investment opportunities.
